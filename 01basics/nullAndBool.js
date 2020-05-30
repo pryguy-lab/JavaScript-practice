@@ -1,13 +1,6 @@
-// temp is coming from a website API
+// var temp =  0
 
-var temp 
-
-// done some calculations
-// temp = 2
-console.log("current temperature is: "+  temp )
-
+// console.log("current temperature is:"+ temp)
 let actualMarks = 7
-
-let myGrades = (actualMarks < 10)
-
-console.log (myGrades)
+let myGrade = (actualMarks < 10)
+console.log (myGrade)
